@@ -1,3 +1,13 @@
+# Attention
+
+This is a 'fork' of the repository
+https://github.com/dgrun/RaceID3_StemID2_package
+by the authors of this code.
+
+Please do not make commits (changes) to the 'master' branch.
+This repository is intended for you to create your own branches where custom changes/additions
+to this software can be made.
+
 # RaceID algorithm
 
 RaceID is a clustering algorithm for the identification of cell types
